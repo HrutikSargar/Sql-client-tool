@@ -10,10 +10,10 @@ SqlYog-Clone is a lightweight Java-based SQL client tool designed to provide a u
 - Database schema visualization.
 
 ## Technologies Used
-- Java (Backend)
-- HTML, JavaScript (Frontend)
+- Java (Backend) Servlet , Jsp, JDBC Api
+- HTML, Css JavaScript (Frontend)
 
-## Setup and Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/HrutikSargar/SqlYog-Clone.git
+##Usage
+- Start the application by running the main Java class.
+- Connect to your database using the provided interface.
+- Perform SQL queries and manage your database.
